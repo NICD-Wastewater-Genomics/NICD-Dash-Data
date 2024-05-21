@@ -32,12 +32,11 @@ jobs:
             git config --global user.email "joshua.levy16@gmail.com"
             cp NICD-Freyja-outputs-/scripts/NICD_daily_smoothed.csv .
             cp NICD-Freyja-outputs-/scripts/NICD_monthly.csv .
-            cp NICD-Freyja-outputs-/scripts/color_map.json .
             cp NICD-Freyja-outputs-/scripts/merged_data.tsv .
     
       - name: Push
         run: |
-          if [[($(git status Dashboard/data/merged_data.tsv --porcelain | wc -c) -ne 0)]]; then
+          if [[($(git status merged_data.tsv --porcelain | wc -c) -ne 0)]]; then
             git add --all
             git commit -m "automated core data update"
             git push origin main
