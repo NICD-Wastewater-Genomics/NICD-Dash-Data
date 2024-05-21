@@ -30,10 +30,10 @@ jobs:
         run: |
             git config --global user.name "joshuailevy"
             git config --global user.email "joshua.levy16@gmail.com"
-            cp NICD-Freyja-outputs-/scripts/NICD_daily_smoothed.csv Dashboard/data/
-            cp NICD-Freyja-outputs-/scripts/NICD_monthly.csv Dashboard/data/
-            cp NICD-Freyja-outputs-/scripts/color_map.json Dashboard/data/
-            cp NICD-Freyja-outputs-/scripts/merged_data.tsv Dashboard/data/
+            cp NICD-Freyja-outputs-/scripts/NICD_daily_smoothed.csv .
+            cp NICD-Freyja-outputs-/scripts/NICD_monthly.csv .
+            cp NICD-Freyja-outputs-/scripts/color_map.json .
+            cp NICD-Freyja-outputs-/scripts/merged_data.tsv .
     
       - name: Push
         run: |
