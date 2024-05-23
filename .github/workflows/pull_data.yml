@@ -25,9 +25,16 @@ jobs:
           token: ${{ secrets.NICD_TOKEN }}
           path: NICD-Freyja-outputs-
 
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.9
+
       - name: Clone 
         shell: bash -l {0}
         run: |
+            pip install pandas
+            pip install pyarrow
             git config --global user.name "joshuailevy"
             git config --global user.email "joshua.levy16@gmail.com"
             cp NICD-Freyja-outputs-/scripts/NICD_daily_smoothed.csv .
