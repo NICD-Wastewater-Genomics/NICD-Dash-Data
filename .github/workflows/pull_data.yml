@@ -33,6 +33,7 @@ jobs:
             cp NICD-Freyja-outputs-/scripts/NICD_daily_smoothed.csv .
             cp NICD-Freyja-outputs-/scripts/NICD_monthly.csv .
             cp NICD-Freyja-outputs-/scripts/merged_data.tsv .
+            python convert_data_format.py
     
       - name: Push
         run: |
