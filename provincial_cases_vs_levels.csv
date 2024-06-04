@@ -1520,7 +1520,8 @@
 "2024w21",42,"ERWAT Vlakplaat Wastewater Treatment Works","Gauteng","Ekurhuleni MM",3.06,3.06,0.48572142648158,2024-05-21,2024
 "2024w22",22,"Hartebeesfontein Waterworks","Gauteng","Ekurhuleni MM",9.64,9.64,0.984077033902831,2024-05-28,2024
 "2024w22",22,"ERWAT Vlakplaat Wastewater Treatment Works","Gauteng","Ekurhuleni MM",NA,NA,NA,2024-05-28,2024
-"2024w23",3,NA,NA,NA,NA,NA,NA,NA,2024
+"2024w23",3,"ERWAT Vlakplaat Wastewater Treatment Works","Gauteng","Ekurhuleni MM",NA,NA,NA,2024-06-04,2024
+"2024w23",3,"Hartebeesfontein Waterworks","Gauteng","Ekurhuleni MM",NA,NA,NA,2024-06-04,2024
 "2021w1",3854,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",145,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",123,NA,NA,NA,NA,NA,NA,NA,2021
@@ -1899,7 +1900,7 @@
 "2024w21",53,"Daspoort Wastewater Treatment Works","Gauteng","Tshwane MM",7.96,7.96,0.900913067737669,2024-05-24,2024
 "2024w22",32,"Daspoort Wastewater Treatment Works","Gauteng","Tshwane MM",16.8,16.8,1.22530928172586,2024-05-28,2024
 "2024w22",32,"Daspoort Wastewater Treatment Works","Gauteng","Tshwane MM",NA,NA,NA,2024-05-31,2024
-"2024w23",5,NA,NA,NA,NA,NA,NA,NA,2024
+"2024w23",5,"Daspoort Wastewater Treatment Works","Gauteng","Tshwane MM",NA,NA,NA,2024-06-04,2024
 "2021w1",4758,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",135,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",95,NA,NA,NA,NA,NA,NA,NA,2021
@@ -2098,7 +2099,7 @@
 "2024w21",35,"Northern Wastewater Treatment Works (GP)","Gauteng","Johannesburg MM",21.42,21.42,1.33081946649584,2024-05-21,2024
 "2024w21",35,"Goudkoppies Wastewater Treatment Works","Gauteng","Johannesburg MM",52.07,52.07,1.71658757767569,2024-05-22,2024
 "2024w22",18,NA,NA,NA,NA,NA,NA,NA,2024
-"2024w23",9,NA,NA,NA,NA,NA,NA,NA,2024
+"2024w23",9,"Northern Wastewater Treatment Works (GP)","Gauteng","Johannesburg MM",NA,NA,NA,2024-06-04,2024
 "2021w1",372,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",29,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",35,NA,NA,NA,NA,NA,NA,NA,2021
@@ -2386,6 +2387,7 @@
 "2024w21",0,"Kingstonvale","Mpumalanga","Ehlanzeni DM",25.97,25.97,1.4144719496293,2024-05-20,2024
 "2024w22",0,"Komatipoort Sewage plant","Mpumalanga","Ehlanzeni DM",0,NA,NA,2024-05-27,2024
 "2024w22",0,"Kingstonvale","Mpumalanga","Ehlanzeni DM",0,NA,NA,2024-05-27,2024
+"2024w23",0,"Komatipoort Sewage plant","Mpumalanga","Ehlanzeni DM",NA,NA,NA,2024-06-03,2024
 "2021w1",239,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",9,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",14,NA,NA,NA,NA,NA,NA,NA,2021
