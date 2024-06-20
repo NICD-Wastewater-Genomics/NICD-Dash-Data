@@ -44,7 +44,7 @@ jobs:
     
       - name: Push
         run: |
-          if [[($(git status merged_data.tsv --porcelain | wc -c) -ne 0)]]; then
+          if [[($(git status --porcelain | wc -c) -ne 0)]]; then
             git add --all
             git commit -m "automated core data update"
             git push origin main
