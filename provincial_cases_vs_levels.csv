@@ -1243,6 +1243,8 @@
 "2024w24",20,"Northern Wastewater Treatment Works (KZN)","KwaZulu-Natal","Ethekwini MM",0,NA,NA,2024-06-10,2024
 "2024w25",19,"Northern Wastewater Treatment Works (KZN)","Gauteng","Ethekwini MM",NA,NA,NA,2024-06-18,2024
 "2024w25",19,"Central Wastewater Treatment Works (KZN)","KwaZulu-Natal","Ethekwini MM",NA,NA,NA,2024-06-18,2024
+"2024w26",0,"Northern Wastewater Treatment Works (KZN)","KwaZulu-Natal","Ethekwini MM",NA,NA,NA,2024-06-24,2024
+"2024w26",0,"Central Wastewater Treatment Works (KZN)","KwaZulu-Natal","Ethekwini MM",NA,NA,NA,2024-06-24,2024
 "2021w1",2741,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",56,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",38,NA,NA,NA,NA,NA,NA,NA,2021
@@ -1550,6 +1552,7 @@
 "2024w23",9,"Hartebeesfontein Waterworks","Gauteng","Ekurhuleni MM",3.05,3.05,0.484299839346786,2024-06-04,2024
 "2024w24",26,"Hartebeesfontein Waterworks","Gauteng","Ekurhuleni MM",3.06,3.06,0.48572142648158,2024-06-11,2024
 "2024w25",6,"Hartebeesfontein Waterworks","Gauteng","Ekurhuleni MM",NA,NA,NA,2024-06-18,2024
+"2024w26",0,"ERWAT Vlakplaat Wastewater Treatment Works","Gauteng","Ekurhuleni MM",NA,NA,NA,2024-06-25,2024
 "2021w1",3854,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",145,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",123,NA,NA,NA,NA,NA,NA,NA,2021
@@ -2139,6 +2142,7 @@
 "2024w24",35,"Goudkoppies Wastewater Treatment Works","Gauteng","Johannesburg MM",2.52,2.52,0.401400540781544,2024-06-12,2024
 "2024w25",13,"Northern Wastewater Treatment Works (GP)","Gauteng","Johannesburg MM",NA,NA,NA,2024-06-18,2024
 "2024w25",13,"Goudkoppies Wastewater Treatment Works","Gauteng","Johannesburg MM",NA,NA,NA,2024-06-19,2024
+"2024w26",0,"Northern Wastewater Treatment Works (GP)","Gauteng","Johannesburg MM",NA,NA,NA,2024-06-25,2024
 "2021w1",372,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",29,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",35,NA,NA,NA,NA,NA,NA,NA,2021
