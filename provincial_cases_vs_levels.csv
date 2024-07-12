@@ -502,6 +502,7 @@
 "2024w27",1,"Mdantsane Wastewater Treatment Works","Eastern Cape","Buffalo City MM",1.71,2.34,0.369215857410143,2024-07-04,2024
 "2024w28",0,"Mdantsane Wastewater Treatment Works","Eastern Cape","Buffalo City MM",NA,NA,NA,2024-07-09,2024
 "2024w28",0,"East Bank Wastewater Treatment Works","Eastern Cape","Buffalo City MM",NA,NA,NA,2024-07-09,2024
+"2024w28",0,"Mdantsane Wastewater Treatment Works","Eastern Cape","Buffalo City MM",NA,NA,NA,2024-07-11,2024
 "2021w1",4933,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",97,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",42,NA,NA,NA,NA,NA,NA,NA,2021
@@ -678,7 +679,8 @@
 "2024w25",24,NA,NA,NA,NA,NA,NA,NA,2024
 "2024w26",3,NA,NA,NA,NA,NA,NA,NA,2024
 "2024w27",4,NA,NA,NA,NA,NA,NA,NA,2024
-"2024w28",4,NA,NA,NA,NA,NA,NA,NA,2024
+"2024w28",4,"Brickfield Pre-treatment Works","Eastern Cape","Nelson Mandela Bay MM",NA,NA,NA,2024-07-08,2024
+"2024w28",4,"Kwanobuhle Wastewater Treatment Works","Eastern Cape","Nelson Mandela Bay MM",NA,NA,NA,2024-07-08,2024
 "2021w1",347,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",12,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",6,NA,NA,NA,NA,NA,NA,NA,2021
@@ -1587,6 +1589,7 @@
 "2024w27",15,"ERWAT Vlakplaat Wastewater Treatment Works","Gauteng","Ekurhuleni MM",6.51,6.51,0.813580988568192,2024-07-02,2024
 "2024w27",15,"Hartebeesfontein Waterworks","Gauteng","Ekurhuleni MM",10.26,10.26,1.0111473607758,2024-07-02,2024
 "2024w28",5,"Hartebeesfontein Waterworks","Gauteng","Ekurhuleni MM",NA,NA,NA,2024-07-09,2024
+"2024w28",5,"ERWAT Vlakplaat Wastewater Treatment Works","Gauteng","Ekurhuleni MM",NA,NA,NA,2024-07-09,2024
 "2021w1",3854,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",145,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",123,NA,NA,NA,NA,NA,NA,NA,2021
@@ -1978,6 +1981,8 @@
 "2024w26",35,"Daspoort Wastewater Treatment Works","Gauteng","Tshwane MM",6.82,6.82,0.833784374656479,2024-06-28,2024
 "2024w27",23,"Daspoort Wastewater Treatment Works","Gauteng","Tshwane MM",5.06,5.06,0.704150516839799,2024-07-02,2024
 "2024w28",4,"Daspoort Wastewater Treatment Works","Gauteng","Tshwane MM",NA,NA,NA,2024-07-09,2024
+"2024w28",4,"Rooiwal Wastewater Treatment Works","Gauteng","Tshwane MM",NA,NA,NA,2024-07-10,2024
+"2024w28",4,"Daspoort Wastewater Treatment Works","Gauteng","Tshwane MM",NA,NA,NA,2024-07-12,2024
 "2021w1",4758,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",135,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",95,NA,NA,NA,NA,NA,NA,NA,2021
@@ -2341,6 +2346,8 @@
 "2024w26",0,"Boitekong","North West","Bojanala Platinum DM",1.59,2.34,0.369215857410143,2024-06-26,2024
 "2024w27",1,"Rustenburg Wastewater Treatment Works","North West","Bojanala Platinum DM",14.54,14.54,1.16256440652302,2024-07-03,2024
 "2024w27",1,"Boitekong","North West","Bojanala Platinum DM",3.33,3.33,0.52244423350632,2024-07-03,2024
+"2024w28",0,"Rustenburg Wastewater Treatment Works","North West","Bojanala Platinum DM",NA,NA,NA,2024-07-10,2024
+"2024w28",0,"Boitekong","North West","Bojanala Platinum DM",NA,NA,NA,2024-07-10,2024
 "2021w1",1208,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",59,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",28,NA,NA,NA,NA,NA,NA,NA,2021
@@ -2824,6 +2831,8 @@
 "2024w24",0,"Manguzi Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",0,NA,NA,2024-06-12,2024
 "2024w26",0,"Jozini Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",3.37,3.37,0.527629900871339,2024-06-25,2024
 "2024w27",0,"Jozini Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",0,NA,NA,2024-07-02,2024
+"2024w28",0,"Jozini Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",NA,NA,NA,2024-07-09,2024
+"2024w28",0,"Manguzi Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",NA,NA,NA,2024-07-10,2024
 "2021w1",183,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",17,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",3,NA,NA,NA,NA,NA,NA,NA,2021
@@ -2942,3 +2951,4 @@
 "2024w25",4,"Homevale Kimberley","Northern Cape","Frances Baard DM",1.53,2.34,0.369215857410143,2024-06-19,2024
 "2024w26",2,"Homevale Kimberley","Northern Cape","Frances Baard DM",16.83,16.83,1.22608411597582,2024-06-26,2024
 "2024w27",1,"Homevale Kimberley","Northern Cape","Frances Baard DM",0,NA,NA,2024-07-03,2024
+"2024w28",0,"Homevale Kimberley","Northern Cape","Frances Baard DM",NA,NA,NA,2024-07-11,2024
