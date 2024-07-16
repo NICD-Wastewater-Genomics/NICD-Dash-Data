@@ -1276,6 +1276,8 @@
 "2024w27",4,"Central Wastewater Treatment Works (KZN)","KwaZulu-Natal","Ethekwini MM",0,NA,NA,2024-07-01,2024
 "2024w28",5,"Northern Wastewater Treatment Works (KZN)","KwaZulu-Natal","Ethekwini MM",0,NA,NA,2024-07-08,2024
 "2024w28",5,"Central Wastewater Treatment Works (KZN)","KwaZulu-Natal","Ethekwini MM",0,NA,NA,2024-07-08,2024
+"2024w29",0,"Northern Wastewater Treatment Works (KZN)","KwaZulu-Natal","Ethekwini MM",NA,NA,NA,2024-07-15,2024
+"2024w29",0,"Central Wastewater Treatment Works (KZN)","KwaZulu-Natal","Ethekwini MM",NA,NA,NA,2024-07-15,2024
 "2021w1",2741,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",56,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",38,NA,NA,NA,NA,NA,NA,NA,2021
@@ -1985,7 +1987,7 @@
 "2024w28",15,"Daspoort Wastewater Treatment Works","Gauteng","Tshwane MM",6.45,6.45,0.809559714635268,2024-07-09,2024
 "2024w28",15,"Rooiwal Wastewater Treatment Works","Gauteng","Tshwane MM",8.76,8.76,0.942504106168081,2024-07-10,2024
 "2024w28",15,"Daspoort Wastewater Treatment Works","Gauteng","Tshwane MM",NA,NA,NA,2024-07-12,2024
-"2024w29",9,NA,NA,NA,NA,NA,NA,NA,2024
+"2024w29",9,"Daspoort Wastewater Treatment Works","Gauteng","Tshwane MM",NA,NA,NA,2024-07-16,2024
 "2021w1",4758,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",135,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",95,NA,NA,NA,NA,NA,NA,NA,2021
@@ -2197,7 +2199,7 @@
 "2024w27",24,"Goudkoppies Wastewater Treatment Works","Gauteng","Johannesburg MM",8.61,8.61,0.935003151453655,2024-07-03,2024
 "2024w28",15,"Northern Wastewater Treatment Works (GP)","Gauteng","Johannesburg MM",6.78,6.78,0.831229693867063,2024-07-09,2024
 "2024w28",15,"Goudkoppies Wastewater Treatment Works","Gauteng","Johannesburg MM",1.71,2.34,0.369215857410143,2024-07-10,2024
-"2024w29",1,NA,NA,NA,NA,NA,NA,NA,2024
+"2024w29",1,"Northern Wastewater Treatment Works (GP)","Gauteng","Johannesburg MM",NA,NA,NA,2024-07-16,2024
 "2021w1",372,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",29,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",35,NA,NA,NA,NA,NA,NA,NA,2021
