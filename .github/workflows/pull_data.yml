@@ -1,53 +1,54 @@
-# This workflow will install pytest, and test validity of data in repo.
+# # This workflow will install pytest, and test validity of data in repo.
 
-name: Data integration
+# name: Data integration
 
-on:
-  push:
-    branches: [ "main" ]
-  schedule:
-    - cron: '0 0 * * *'
+# on:
+#   # push:
+#   #   branches: [ "main" ]
+#   schedule:
+#     - cron: '0 0 * * *'
 
-jobs:
-  build:
+# jobs:
+#   build:
 
-    runs-on: ubuntu-latest
+#     runs-on: ubuntu-latest
 
-    steps:
-      - uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.NICD_TOKEN }}
+#     steps:
+#       - uses: actions/checkout@v3
+#         with:
+#           token: ${{ secrets.NICD_TOKEN }}
           
-      - name: Checkout private tools
-        uses: actions/checkout@v3
-        with:
-          repository: NICD-Wastewater-Genomics/NICD-Freyja-outputs-
-          token: ${{ secrets.NICD_TOKEN }}
-          path: NICD-Freyja-outputs-
+#       - name: Checkout private tools
+#         uses: actions/checkout@v3
+#         with:
+#           repository: NICD-Wastewater-Genomics/NICD-Freyja-outputs-
+#           token: ${{ secrets.NICD_TOKEN }}
+#           path: NICD-Freyja-outputs-
 
-      - name: setup python
-        uses: actions/setup-python@v4
-        with:
-          python-version: 3.9
+#       - name: setup python
+#         uses: actions/setup-python@v4
+#         with:
+#           python-version: 3.9
 
-      - name: Clone 
-        shell: bash -l {0}
-        run: |
-            pip install pandas
-            pip install pyarrow
-            git config --global user.name "joshuailevy"
-            git config --global user.email "joshua.levy16@gmail.com"
-            cp NICD-Freyja-outputs-/scripts/NICD_daily_smoothed.csv .
-            cp NICD-Freyja-outputs-/scripts/NICD_monthly.csv .
-            cp NICD-Freyja-outputs-/scripts/merged_data.tsv .
-            python convert_data_format.py
+#       - name: Clone 
+#         shell: bash -l {0}
+#         run: |
+#             pip install pandas
+#             pip install pyarrow
+#             git config --global user.name "joshuailevy"
+#             git config --global user.email "joshua.levy16@gmail.com"
+#             cp NICD-Freyja-outputs-/scripts/NICD_daily_smoothed.csv .
+#             cp NICD-Freyja-outputs-/scripts/NICD_monthly.csv .
+#             cp NICD-Freyja-outputs-/scripts/merged_data.tsv .
+#             cp NICD-Freyja-outputs-/scripts/color_map.json .
+#             python convert_data_format.py
     
-      - name: Push
-        run: |
-          if [[($(git status --porcelain | wc -c) -ne 0)]]; then
-            git add --all
-            git commit -m "automated core data update"
-            git push origin main
-          else
-            echo "no new samples, nothing to do"
-          fi
+#       - name: Push
+#         run: |
+#           if [[($(git status --porcelain | wc -c) -ne 0)]]; then
+#             git add --all
+#             git commit -m "automated core data update"
+#             git push origin main
+#           else
+#             echo "no new samples, nothing to do"
+#           fi
