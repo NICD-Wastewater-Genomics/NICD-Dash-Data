@@ -1,0 +1,148 @@
+# Configuration file for plotting colors, with inheritance shown with similar colors.  
+KP.3.X:
+  name: "KP.3.X"
+  members:
+    - "KP.3*"
+  parent: "BA.2.86.X"
+
+KP.2.X:
+  name: "KP.2.X"
+  members:
+    - "KP.2*"
+  parent: "BA.2.86.X"
+
+KP.1.X:
+  name: "KP.1.X"
+  members:
+    - "KP.1*"
+  parent: "BA.2.86.X"
+
+BA.2.87.1.X:
+  name: "BA.2.87.1.X"
+  members:
+    - "BA.2.87.1*"
+  parent: "BA.2.X"
+
+JN.1.X:
+  name: "JN.1.X"
+  members:
+    - "JN.1*"
+  parent: "BA.2.86.X"
+
+BA.2.86.X:
+  name: "BA.2.86.X"
+  members:
+    - "BA.2.86*"
+  color: "#808000"
+
+XBB.1.9.X:
+  name: "XBB.1.9.X"
+  members:
+    - "XBB.1.9*"
+    - "EG.5*"
+    - "HV.1*"
+  color: "#ffb731"
+
+XBB.2.3.X:
+  name: "XBB.2.3.X"
+  members:
+    - "XBB.2.3*"
+  parent: "XBB.X"
+
+XBB.1.16.X:
+  name: "XBB.1.16.X"
+  members:
+    - "XBB.1.16*"
+  parent: "XBB.X"
+  
+XBB.1.5.X:
+  name: "XBB.1.5.X"
+  members:
+    - "XBB.1.5*"
+  parent: "XBB.X"
+
+XBB.X:
+  name: "XBB.X"
+  members:
+    - "XBB*"
+  color: "#e41a1c"
+
+XBC.X:
+  name: "XBC.X"
+  members:
+    - "XBC*"
+  color: "#2E3190"
+
+BQ.1.X:
+  name: "BQ.1.X"
+  members:
+    - "BQ.1*"
+    - "BQ.1.1*"
+  parent: "BA.5.X"
+
+BF.7.X:
+  name: "BF.7.X"
+  members:
+    - "BF.7.X"
+  parent: "BA.5.X"
+
+BA.5.X:
+  name: "BA.5.X"
+  members:
+    - "BA.5*"
+  color: "#984ea3"
+
+BA.4.X:
+  name: "BA.4.X"
+  members:
+    - "BA.4*"
+  color: "#ff7f00"
+
+BA.2.12.X:
+  name: "BA.2.12.X"
+  members:
+    - "BA.2.12*"
+  parent: "BA.2.X"
+
+BA.2.X:
+  name: "BA.2.X"
+  members:
+    - "BA.2*"
+    - "BN.1*"
+  color: "#4daf4a"
+
+# BA.1.1.X:
+#   name: "BA.1.1.X (Omicron)"
+#   members:
+#     - "BA.1.1*"
+#   parent: "BA.1"
+
+BA.1.X:
+  name: "BA.1.X"
+  members:
+    - "BA.1*"
+  color: "#377eb8"
+
+Delta:
+  name: "Delta"
+  members:
+    - "B.1.617.2*"
+  color: "#3b3c3d"
+
+# B.1.X:
+#   name: "B.1.X"
+#   members:
+#     - "B.1*"
+#   color: "darkgrey"
+
+  
+# Recombinants:
+#   name: "Other recombinants"
+#   members:
+#     - "Recombinants"
+#   color: "#6A6C6E"
+
+# Other:
+#   name: "Other"
+#   members: null
+#   color: "#DDDDDD"
