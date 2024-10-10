@@ -234,6 +234,8 @@
 "2024w39",0,"Zandvleit Wastewater Treatment Works","Western Cape","Cape Town MM",34.84,34.84,1.54207814633563,2024-09-26,2024
 "2024w40",0,"Borcherds Quarry Wastewater Treatment Works","Western Cape","Cape Town MM",0,NA,NA,2024-10-01,2024
 "2024w40",0,"Zandvleit Wastewater Treatment Works","Western Cape","Cape Town MM",2.66,2.66,0.424881636631067,2024-10-01,2024
+"2024w41",0,"Borcherds Quarry Wastewater Treatment Works","Western Cape","Cape Town MM",NA,NA,NA,2024-10-08,2024
+"2024w41",0,"Zandvleit Wastewater Treatment Works","Eastern Cape","Cape Town MM",NA,NA,NA,2024-10-08,2024
 "2021w1",691,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",5,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",2,NA,NA,NA,NA,NA,NA,NA,2021
@@ -560,6 +562,8 @@
 "2024w40",0,"East Bank Wastewater Treatment Works","Eastern Cape","Buffalo City MM",2.67,2.67,0.426511261364575,2024-10-01,2024
 "2024w40",0,"Mdantsane Wastewater Treatment Works","Eastern Cape","Buffalo City MM",0,NA,NA,2024-10-01,2024
 "2024w40",0,"Mdantsane Wastewater Treatment Works","Eastern Cape","Buffalo City MM",0,NA,NA,2024-10-03,2024
+"2024w41",0,"East Bank Wastewater Treatment Works","Eastern Cape","Buffalo City MM",NA,NA,NA,2024-10-08,2024
+"2024w41",0,"Mdantsane Wastewater Treatment Works","Eastern Cape","Buffalo City MM",NA,NA,NA,2024-10-08,2024
 "2024w42",0,"East Bank Wastewater Treatment Works","Eastern Cape","Buffalo City MM",0,NA,NA,2024-10-17,2024
 "2021w1",4933,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",97,NA,NA,NA,NA,NA,NA,NA,2021
@@ -1087,6 +1091,8 @@
 "2024w39",0,"Bloemspruit Wastewater Treatment Works","Free State","Mangaung MM",0,NA,NA,2024-09-25,2024
 "2024w40",0,"Sterkwater Wastewater Treatment Works","Free State","Mangaung MM",85.05,85.05,1.92967431794859,2024-10-01,2024
 "2024w40",0,"Bloemspruit Wastewater Treatment Works","Free State","Mangaung MM",54.9,54.9,1.73957234445009,2024-10-01,2024
+"2024w41",0,"Sterkwater Wastewater Treatment Works","Free State","Mangaung MM",NA,NA,NA,2024-10-08,2024
+"2024w41",0,"Bloemspruit Wastewater Treatment Works","Free State","Mangaung MM",NA,NA,NA,2024-10-09,2024
 "2021w1",4933,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",97,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",42,NA,NA,NA,NA,NA,NA,NA,2021
@@ -2385,6 +2391,7 @@
 "2024w40",0,"Northern Wastewater Treatment Works (GP)","Gauteng","Johannesburg MM",7.82,7.82,0.893206753059848,2024-10-01,2024
 "2024w40",0,"Goudkoppies Wastewater Treatment Works","Gauteng","Johannesburg MM",2.66,2.66,0.424881636631067,2024-10-02,2024
 "2024w41",0,"Northern Wastewater Treatment Works (GP)","Gauteng","Johannesburg MM",NA,NA,NA,2024-10-08,2024
+"2024w41",0,"Goudkoppies Wastewater Treatment Works","Gauteng","Johannesburg MM",NA,NA,NA,2024-10-09,2024
 "2021w1",372,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",29,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",35,NA,NA,NA,NA,NA,NA,NA,2021
@@ -2560,6 +2567,8 @@
 "2024w39",0,"Boitekong","North West","Bojanala Platinum DM",0,NA,NA,2024-09-26,2024
 "2024w40",0,"Rustenburg Wastewater Treatment Works","North West","Bojanala Platinum DM",26.27,26.27,1.41946007278607,2024-10-02,2024
 "2024w40",0,"Boitekong","North West","Bojanala Platinum DM",2.67,2.67,0.426511261364575,2024-10-02,2024
+"2024w41",0,"Rustenburg Wastewater Treatment Works","North West","Bojanala Platinum DM",NA,NA,NA,2024-10-09,2024
+"2024w41",0,"Boitekong","North West","Bojanala Platinum DM",NA,NA,NA,2024-10-09,2024
 "2021w1",1208,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",59,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",28,NA,NA,NA,NA,NA,NA,NA,2021
@@ -2729,6 +2738,8 @@
 "2024w39",0,"Komatipoort Sewage plant","Mpumalanga","Ehlanzeni DM",0,NA,NA,2024-09-23,2024
 "2024w39",0,"Kingstonvale","Mpumalanga","Ehlanzeni DM",0,NA,NA,2024-09-23,2024
 "2024w40",0,"Komatipoort Sewage plant","Gauteng","Ehlanzeni DM",5.4,5.4,0.732393759822969,2024-09-30,2024
+"2024w41",0,"Komatipoort Sewage plant","Mpumalanga","Ehlanzeni DM",NA,NA,NA,2024-10-07,2024
+"2024w41",0,"Kingstonvale","Mpumalanga","Ehlanzeni DM",NA,NA,NA,2024-10-07,2024
 "2021w1",239,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",9,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",14,NA,NA,NA,NA,NA,NA,NA,2021
