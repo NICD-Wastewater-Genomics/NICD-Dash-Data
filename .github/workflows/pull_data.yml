@@ -1,5 +1,4 @@
 # This workflow will install pytest, and test validity of data in repo.
-
 name: Data integration
 
 on:
