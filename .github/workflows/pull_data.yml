@@ -3,8 +3,10 @@
 name: Data integration
 
 on:
-  # push:
-  #   branches: [ "main" ]
+  push:
+    branches: [ "main" ]
+    paths:
+      - '.github/workflows/**'
   schedule:
     - cron: '0 0 * * *'
 
@@ -37,10 +39,10 @@ jobs:
             pip install pyarrow
             git config --global user.name "joshuailevy"
             git config --global user.email "joshua.levy16@gmail.com"
-            # cp NICD-Freyja-outputs-/scripts/NICD_daily_smoothed.csv .
-            # cp NICD-Freyja-outputs-/scripts/NICD_monthly.csv .
-            # cp NICD-Freyja-outputs-/scripts/merged_data.tsv .
-            # cp NICD-Freyja-outputs-/scripts/color_map.json .
+            cp NICD-Freyja-outputs-/scripts/NICD_daily_smoothed.csv .
+            cp NICD-Freyja-outputs-/scripts/NICD_monthly.csv .
+            cp NICD-Freyja-outputs-/scripts/merged_data.tsv .
+            cp NICD-Freyja-outputs-/scripts/color_map.json .
             python convert_data_format.py
     
       - name: Push
