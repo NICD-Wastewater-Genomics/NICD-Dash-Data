@@ -1158,6 +1158,7 @@
 "2024w50",0,"Bloemspruit Wastewater Treatment Works","Free State","Mangaung MM",30.56,30.56,1.48515334990365,2024-12-10,2024
 "2024w50",0,"Sterkwater Wastewater Treatment Works","Free State","Mangaung MM",276.3,276.3,2.44138088491651,2024-12-10,2024
 "2024w51",0,"Bloemspruit Wastewater Treatment Works","Free State","Mangaung MM",NA,NA,NA,2024-12-17,2024
+"2024w51",0,"Sterkwater Wastewater Treatment Works","Free State","Mangaung MM",NA,NA,NA,2024-12-17,2024
 "2021w1",4933,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",97,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",42,NA,NA,NA,NA,NA,NA,NA,2021
@@ -1831,6 +1832,7 @@
 "2024w49",0,"Hartebeesfontein Waterworks","Gauteng","Ekurhuleni MM",33.39,33.39,1.52361641905437,2024-12-03,2024
 "2024w50",0,"Hartebeesfontein Waterworks","Gauteng","Ekurhuleni MM",12.39,12.39,1.09307130637606,2024-12-10,2024
 "2024w50",0,"ERWAT Vlakplaat Wastewater Treatment Works","Gauteng","Ekurhuleni MM",6.18,6.18,0.790988475088816,2024-12-10,2024
+"2024w51",0,"ERWAT Vlakplaat Wastewater Treatment Works","Gauteng","Ekurhuleni MM",NA,NA,NA,2024-12-17,2024
 "2021w1",3854,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",145,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",123,NA,NA,NA,NA,NA,NA,NA,2021
@@ -2732,6 +2734,8 @@
 "2024w49",0,"Rustenburg Wastewater Treatment Works","North West","Bojanala Platinum DM",204.75,204.75,2.31122391043246,2024-12-04,2024
 "2024w50",0,"Boitekong","North West","Bojanala Platinum DM",6.35,6.35,0.802773725291976,2024-12-11,2024
 "2024w50",0,"Rustenburg Wastewater Treatment Works","North West","Bojanala Platinum DM",169.65,169.65,2.22955386398114,2024-12-11,2024
+"2024w51",0,"Boitekong","North West","Bojanala Platinum DM",NA,NA,NA,2024-12-18,2024
+"2024w51",0,"Rustenburg Wastewater Treatment Works","North West","Bojanala Platinum DM",NA,NA,NA,2024-12-18,2024
 "2021w1",1208,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",59,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",28,NA,NA,NA,NA,NA,NA,NA,2021
@@ -2918,6 +2922,7 @@
 "2024w49",0,"Kingstonvale","Mpumalanga","Ehlanzeni DM",116.07,116.07,2.06471998444091,2024-12-02,2024
 "2024w49",0,"Komatipoort Sewage plant","Mpumalanga","Ehlanzeni DM",41.12,41.12,1.61405310598722,2024-12-02,2024
 "2024w50",0,"Komatipoort Sewage plant","Mpumalanga","Ehlanzeni DM",63.21,63.21,1.80078579032776,2024-12-09,2024
+"2024w51",0,"Komatipoort Sewage plant","Mpumalanga","Ehlanzeni DM",NA,NA,NA,2024-12-16,2024
 "2021w1",239,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",9,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",14,NA,NA,NA,NA,NA,NA,NA,2021
@@ -3459,3 +3464,4 @@
 "2024w45",1,"Homevale Kimberley","Northern Cape","Frances Baard DM",118.16,118.16,2.07247048230389,2024-11-06,2024
 "2024w46",2,"Homevale Kimberley","Northern Cape","Frances Baard DM",51.48,51.48,1.71163853823235,2024-11-13,2024
 "2024w47",1,NA,NA,NA,NA,NA,NA,NA,2024
+"2024w51",0,"Homevale Kimberley","Northern Cape","Frances Baard DM",NA,NA,NA,2024-12-18,2024
