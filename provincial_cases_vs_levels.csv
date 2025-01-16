@@ -257,6 +257,7 @@
 "2024w51",0,"Borcherds Quarry Wastewater Treatment Works","Western Cape","Cape Town MM",5.9,5.9,0.770852011642144,2024-12-17,2024
 "2024w52",0,"Zandvleit Wastewater Treatment Works","Western Cape","Cape Town MM",NA,NA,NA,2024-12-24,2024
 "2024w52",0,"Borcherds Quarry Wastewater Treatment Works","Western Cape","Cape Town MM",32.51,32.51,1.51201696949613,2024-12-24,2024
+"2025w3",0,"Zandvleit Wastewater Treatment Works","Western Cape","Cape Town MM",NA,NA,NA,2025-01-14,2025
 "2021w1",691,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",5,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",2,NA,NA,NA,NA,NA,NA,NA,2021
@@ -600,6 +601,8 @@
 "2024w47",2,"East Bank Wastewater Treatment Works","Eastern Cape","Buffalo City MM",23.31,23.31,1.36754227352058,2024-11-19,2024
 "2024w48",0,"Mdantsane Wastewater Treatment Works","Eastern Cape","Buffalo City MM",18.63,18.63,1.27021285489624,2024-11-26,2024
 "2024w48",0,"East Bank Wastewater Treatment Works","Eastern Cape","Buffalo City MM",68.07,68.07,1.8329557506046,2024-11-26,2024
+"2025w3",0,"East Bank Wastewater Treatment Works","Eastern Cape","Buffalo City MM",NA,NA,NA,2025-01-14,2025
+"2025w3",0,"Mdantsane Wastewater Treatment Works","Eastern Cape","Buffalo City MM",NA,NA,NA,2025-01-14,2025
 "2021w1",4933,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",97,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",42,NA,NA,NA,NA,NA,NA,NA,2021
@@ -1488,6 +1491,8 @@
 "2024w51",0,"Central Wastewater Treatment Works (KZN)","KwaZulu-Natal","Ethekwini MM",0,NA,NA,2024-12-17,2024
 "2025w2",0,"Central Wastewater Treatment Works (KZN)","KwaZulu-Natal","Ethekwini MM",NA,NA,NA,2025-01-07,2025
 "2025w2",0,"Northern Wastewater Treatment Works (KZN)","KwaZulu-Natal","Ethekwini MM",NA,NA,NA,2025-01-07,2025
+"2025w3",0,"Northern Wastewater Treatment Works (KZN)","KwaZulu-Natal","Ethekwini MM",NA,NA,NA,2025-01-14,2025
+"2025w3",0,"Central Wastewater Treatment Works (KZN)","KwaZulu-Natal","Ethekwini MM",NA,NA,NA,2025-01-14,2025
 "2021w1",2741,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",56,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",38,NA,NA,NA,NA,NA,NA,NA,2021
@@ -1847,6 +1852,7 @@
 "2024w52",0,"ERWAT Vlakplaat Wastewater Treatment Works","Gauteng","Ekurhuleni MM",NA,NA,NA,2024-12-24,2024
 "2025w2",0,"Hartebeesfontein Waterworks","Gauteng","Ekurhuleni MM",NA,NA,NA,2025-01-07,2025
 "2025w2",0,"ERWAT Vlakplaat Wastewater Treatment Works","Gauteng","Ekurhuleni MM",NA,NA,NA,2025-01-07,2025
+"2025w3",0,"Hartebeesfontein Waterworks","Gauteng","Ekurhuleni MM",NA,NA,NA,2025-01-14,2025
 "2021w1",3854,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",145,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",123,NA,NA,NA,NA,NA,NA,NA,2021
@@ -2302,6 +2308,7 @@
 "2025w2",0,"Daspoort Wastewater Treatment Works",NA,"Tshwane MM",NA,NA,NA,2025-01-07,2025
 "2025w2",0,"Daspoort Wastewater Treatment Works","Gauteng","Tshwane MM",NA,NA,NA,2025-01-10,2025
 "2025w3",0,"Daspoort Wastewater Treatment Works","Gauteng","Tshwane MM",NA,NA,NA,2025-01-14,2025
+"2025w3",0,"Rooiwal Wastewater Treatment Works","Gauteng","Tshwane MM",NA,NA,NA,2025-01-15,2025
 "2021w1",4758,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",135,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",95,NA,NA,NA,NA,NA,NA,NA,2021
@@ -2560,6 +2567,7 @@
 "2024w51",0,"Goudkoppies Wastewater Treatment Works","Gauteng","Johannesburg MM",152.1,152.1,2.182129214053,2024-12-18,2024
 "2025w2",0,"Northern Wastewater Treatment Works (GP)","Gauteng","Johannesburg MM",NA,NA,NA,2025-01-07,2025
 "2025w2",0,"Goudkoppies Wastewater Treatment Works","Gauteng","Johannesburg MM",NA,NA,NA,2025-01-08,2025
+"2025w3",0,"Goudkoppies Wastewater Treatment Works","Gauteng","Johannesburg MM",NA,NA,NA,2025-01-15,2025
 "2021w1",372,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",29,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",35,NA,NA,NA,NA,NA,NA,NA,2021
@@ -3201,6 +3209,8 @@
 "2024w49",0,"Nancefield","Limpopo","Vhembe DM",6.18,6.18,0.790988475088816,2024-12-03,2024
 "2024w50",0,"Nancefield","Limpopo","Vhembe DM",12.29,12.29,1.08955188288645,2024-12-11,2024
 "2024w50",0,"Musina WWTW (in town)","Limpopo","Vhembe DM",57.12,57.12,1.75678819876812,2024-12-11,2024
+"2025w3",0,"Musina WWTW (in town)","Limpopo","Vhembe DM",NA,NA,NA,2025-01-14,2025
+"2025w3",0,"Nancefield","Limpopo","Vhembe DM",NA,NA,NA,2025-01-14,2025
 "2021w1",880,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",11,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",5,NA,NA,NA,NA,NA,NA,NA,2021
