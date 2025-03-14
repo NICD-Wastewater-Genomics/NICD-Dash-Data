@@ -642,6 +642,7 @@
 "2025w9",5,"Mdantsane Wastewater Treatment Works","Eastern Cape","Buffalo City MM",24,24,1.38021124171161,2025-02-25,2025
 "2025w10",15,"Mdantsane Wastewater Treatment Works","Eastern Cape","Buffalo City MM",0,NA,NA,2025-03-04,2025
 "2025w10",15,"East Bank Wastewater Treatment Works","Eastern Cape","Buffalo City MM",0,NA,NA,2025-03-04,2025
+"2025w11",0,"Kwanobuhle Wastewater Treatment Works","Eastern Cape","Buffalo City MM",NA,NA,NA,2025-03-10,2025
 "2025w11",0,"East Bank Wastewater Treatment Works","Eastern Cape","Buffalo City MM",NA,NA,NA,2025-03-11,2025
 "2025w11",0,"Mdantsane Wastewater Treatment Works","Eastern Cape","Buffalo City MM",NA,NA,NA,2025-03-11,2025
 "2021w1",4933,NA,NA,NA,NA,NA,NA,NA,2021
@@ -858,6 +859,7 @@
 "2025w8",18,NA,NA,NA,NA,NA,NA,NA,2025
 "2025w9",7,NA,NA,NA,NA,NA,NA,NA,2025
 "2025w10",16,NA,NA,NA,NA,NA,NA,NA,2025
+"2025w11",0,"Brickfield Pre-treatment Works","Eastern Cape","Nelson Mandela Bay MM",NA,NA,NA,2025-03-11,2025
 "2021w1",347,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",12,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",6,NA,NA,NA,NA,NA,NA,NA,2021
@@ -2455,6 +2457,9 @@
 "2025w10",9,"Daspoort Wastewater Treatment Works","Gauteng","Tshwane MM",0,NA,NA,2025-03-07,2025
 "2025w11",12,"Daspoort Wastewater Treatment Works","Gauteng","Tshwane MM",NA,NA,NA,2025-03-11,2025
 "2025w11",12,"Daspoort Wastewater Treatment Works","Gauteng","Tshwane MM",NA,NA,NA,2025-03-11,2025
+"2025w11",12,"Rooiwal Wastewater Treatment Works","Gauteng","Tshwane MM",NA,NA,NA,2025-03-12,2025
+"2025w11",12,"Daspoort Wastewater Treatment Works","Gauteng","Tshwane MM",NA,NA,NA,2025-03-14,2025
+"2025w11",12,"Daspoort Wastewater Treatment Works","Gauteng","Tshwane MM",NA,NA,NA,2025-03-14,2025
 "2021w1",4758,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",135,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",95,NA,NA,NA,NA,NA,NA,NA,2021
@@ -3595,6 +3600,8 @@
 "2025w9",0,"Jozini Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",0,NA,NA,2025-02-25,2025
 "2025w10",0,"Jozini Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",23.25,23.25,1.36642295722597,2025-03-04,2025
 "2025w10",0,"Manguzi Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",0,NA,NA,2025-03-05,2025
+"2025w11",0,"Jozini Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",NA,NA,NA,2025-03-11,2025
+"2025w11",0,"Manguzi Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",NA,NA,NA,2025-03-12,2025
 "2025w13",0,"Manguzi Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",0,NA,NA,2025-03-26,2025
 "2021w1",183,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",17,NA,NA,NA,NA,NA,NA,NA,2021
