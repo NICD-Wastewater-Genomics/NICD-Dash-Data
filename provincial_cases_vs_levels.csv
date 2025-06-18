@@ -2091,6 +2091,7 @@
 "2025w23",1,"ERWAT Vlakplaat Wastewater Treatment Works","Gauteng","Ekurhuleni MM",0,NA,NA,2025-06-03,2025
 "2025w24",0,"ERWAT Vlakplaat Wastewater Treatment Works","Gauteng","Ekurhuleni MM",NA,NA,NA,2025-06-10,2025
 "2025w24",0,"Hartebeesfontein Waterworks","Gauteng","Ekurhuleni MM",NA,NA,NA,2025-06-10,2025
+"2025w25",0,"ERWAT Vlakplaat Wastewater Treatment Works","Gauteng","Ekurhuleni MM",NA,NA,NA,2025-06-17,2025
 "2021w1",3854,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",145,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",123,NA,NA,NA,NA,NA,NA,NA,2021
@@ -3189,6 +3190,8 @@
 "2025w21",1,"Rustenburg Wastewater Treatment Works","North West","Bojanala Platinum DM",5.73,5.73,0.75815462196739,2025-05-21,2025
 "2025w22",0,"Boitekong","North West","Bojanala Platinum DM",0,NA,NA,2025-05-28,2025
 "2025w22",0,"Rustenburg Wastewater Treatment Works","North West","Bojanala Platinum DM",0,NA,NA,2025-05-28,2025
+"2025w24",0,"Rustenburg Wastewater Treatment Works","North West","Bojanala Platinum DM",NA,NA,NA,2025-06-11,2025
+"2025w24",0,"Boitekong","North West","Bojanala Platinum DM",NA,NA,NA,2025-06-11,2025
 "2021w1",1208,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",59,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",28,NA,NA,NA,NA,NA,NA,NA,2021
@@ -3900,6 +3903,12 @@
 "2025w20",0,"Manguzi Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",0,NA,NA,2025-05-14,2025
 "2025w21",0,"Jozini Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",0,NA,NA,2025-05-20,2025
 "2025w21",0,"Manguzi Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",0,NA,NA,2025-05-21,2025
+"2025w22",0,"Jozini Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",NA,NA,NA,2025-05-27,2025
+"2025w22",0,"Manguzi Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",NA,NA,NA,2025-05-28,2025
+"2025w23",0,"Jozini Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",NA,NA,NA,2025-06-03,2025
+"2025w23",0,"Manguzi Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",NA,NA,NA,2025-06-04,2025
+"2025w24",0,"Jozini Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",NA,NA,NA,2025-06-10,2025
+"2025w24",0,"Manguzi Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",NA,NA,NA,2025-06-11,2025
 "2021w1",183,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",17,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",3,NA,NA,NA,NA,NA,NA,NA,2021
