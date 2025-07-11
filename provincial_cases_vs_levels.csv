@@ -2984,6 +2984,7 @@
 "2025w27",1,"Northern Wastewater Treatment Works (GP)","Gauteng","Johannesburg MM",7.08,7.08,0.850033257689769,2025-07-01,2025
 "2025w27",1,"Goudkoppies Wastewater Treatment Works","Gauteng","Johannesburg MM",0,NA,NA,2025-07-02,2025
 "2025w28",0,"Northern Wastewater Treatment Works (GP)","Gauteng","Johannesburg MM",NA,NA,NA,2025-07-08,2025
+"2025w28",0,"Goudkoppies Wastewater Treatment Works","Gauteng","Johannesburg MM",NA,NA,NA,2025-07-09,2025
 "2021w1",372,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",29,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",35,NA,NA,NA,NA,NA,NA,NA,2021
@@ -3226,6 +3227,8 @@
 "2025w25",0,"Rustenburg Wastewater Treatment Works","North West","Bojanala Platinum DM",0,NA,NA,2025-06-18,2025
 "2025w27",0,"Rustenburg Wastewater Treatment Works","North West","Bojanala Platinum DM",0,NA,NA,2025-07-02,2025
 "2025w27",0,"Boitekong","North West","Bojanala Platinum DM",0,NA,NA,2025-07-02,2025
+"2025w28",0,"Rustenburg Wastewater Treatment Works","North West","Bojanala Platinum DM",NA,NA,NA,2025-07-09,2025
+"2025w28",0,"Boitekong","North West","Bojanala Platinum DM",NA,NA,NA,2025-07-09,2025
 "2021w1",1208,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",59,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",28,NA,NA,NA,NA,NA,NA,NA,2021
@@ -3470,6 +3473,8 @@
 "2025w26",0,"Kingstonvale","Gauteng","Ehlanzeni DM",0,NA,NA,2025-06-23,2025
 "2025w27",0,"Kingstonvale","Mpumalanga","Ehlanzeni DM",0,NA,NA,2025-06-30,2025
 "2025w27",0,"Komatipoort Sewage plant","Mpumalanga","Ehlanzeni DM",0,NA,NA,2025-06-30,2025
+"2025w28",0,"Kingstonvale","Mpumalanga","Ehlanzeni DM",NA,NA,NA,2025-07-07,2025
+"2025w28",0,"Komatipoort Sewage plant","Mpumalanga","Ehlanzeni DM",NA,NA,NA,2025-07-07,2025
 "2021w1",239,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",9,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",14,NA,NA,NA,NA,NA,NA,NA,2021
@@ -3755,6 +3760,8 @@
 "2025w26",0,"Nancefield","Gauteng","Vhembe DM",0,NA,NA,2025-06-24,2025
 "2025w27",0,"Musina WWTW (in town)","Limpopo","Vhembe DM",0,NA,NA,2025-07-02,2025
 "2025w27",0,"Nancefield","Limpopo","Vhembe DM",0,NA,NA,2025-07-02,2025
+"2025w28",0,"Nancefield","Limpopo","Vhembe DM",NA,NA,NA,2025-07-09,2025
+"2025w28",0,"Musina WWTW (in town)","Limpopo","Vhembe DM",NA,NA,NA,2025-07-09,2025
 "2021w1",880,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",11,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",5,NA,NA,NA,NA,NA,NA,NA,2021
