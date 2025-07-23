@@ -262,5 +262,6 @@
 "2025w27",1,14,13.2,"w","Real-Time",1.12057393120585,-0.3,2025,27,"South African SARS-CoV-2 Wastewater Levels",2025-07-12
 "2025w28",0,15,17.39,"w","dPCR",1.24029958200271,-0.3,2025,28,"South African SARS-CoV-2 Wastewater Levels",2025-07-19
 "2025w28",0,15,17.39,"w","Real-Time",1.24029958200271,-0.3,2025,28,"South African SARS-CoV-2 Wastewater Levels",2025-07-19
-"2025w29",0,13,NA,"w","Real-Time",NA,NA,2025,29,"South African SARS-CoV-2 Wastewater Levels",2025-07-26
+"2025w29",0,13,5.99,"w","dPCR",0.777426822389311,-0.3,2025,29,"South African SARS-CoV-2 Wastewater Levels",2025-07-26
+"2025w29",0,13,5.99,"w","Real-Time",0.777426822389311,-0.3,2025,29,"South African SARS-CoV-2 Wastewater Levels",2025-07-26
 "2025w30",0,3,NA,"w","Real-Time",NA,NA,2025,30,"South African SARS-CoV-2 Wastewater Levels",2025-08-02
