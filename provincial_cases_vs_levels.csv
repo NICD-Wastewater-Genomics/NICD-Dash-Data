@@ -3246,6 +3246,8 @@
 "2025w28",0,"Boitekong","North West","Bojanala Platinum DM",0,NA,NA,2025-07-09,2025
 "2025w29",0,"Rustenburg Wastewater Treatment Works","North West","Bojanala Platinum DM",0,NA,NA,2025-07-16,2025
 "2025w29",0,"Boitekong","North West","Bojanala Platinum DM",0,NA,NA,2025-07-16,2025
+"2025w30",0,"Boitekong","North West","Bojanala Platinum DM",NA,NA,NA,2025-07-23,2025
+"2025w30",0,"Rustenburg Wastewater Treatment Works","North West","Bojanala Platinum DM",NA,NA,NA,2025-07-23,2025
 "2021w1",1208,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",59,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",28,NA,NA,NA,NA,NA,NA,NA,2021
@@ -3991,6 +3993,7 @@
 "2025w25",0,"Manguzi Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",0,NA,NA,2025-06-18,2025
 "2025w26",0,"Manguzi Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",0,NA,NA,2025-06-25,2025
 "2025w28",0,"Jozini Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",5.91,5.91,0.771587480881255,2025-07-08,2025
+"2025w30",0,"Jozini Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",NA,NA,NA,2025-07-22,2025
 "2021w1",183,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",17,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",3,NA,NA,NA,NA,NA,NA,NA,2021
