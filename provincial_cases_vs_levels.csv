@@ -962,6 +962,8 @@
 "2025w33",1,NA,NA,NA,NA,NA,NA,NA,2025
 "2025w34",5,NA,NA,NA,NA,NA,NA,NA,2025
 "2025w35",2,NA,NA,NA,NA,NA,NA,NA,2025
+"2025w37",0,"Kwanobuhle Wastewater Treatment Works","Eastern Cape","Nelson Mandela Bay MM",NA,NA,NA,2025-09-08,2025
+"2025w37",0,"Brickfield Pre-treatment Works","Eastern Cape","Nelson Mandela Bay MM",NA,NA,NA,2025-09-09,2025
 "2021w1",347,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",12,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",6,NA,NA,NA,NA,NA,NA,NA,2021
@@ -2805,6 +2807,7 @@
 "2025w37",4,"Daspoort Wastewater Treatment Works","Gauteng","Tshwane MM",NA,NA,NA,2025-09-09,2025
 "2025w37",4,"Daspoort Wastewater Treatment Works","Gauteng","Tshwane MM",NA,NA,NA,2025-09-09,2025
 "2025w37",4,"Daspoort Wastewater Treatment Works","Gauteng","Tshwane MM",NA,NA,NA,2025-09-12,2025
+"2025w37",4,"Daspoort Wastewater Treatment Works","Gauteng","Tshwane MM",NA,NA,NA,2025-09-12,2025
 "2021w1",4758,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",135,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",95,NA,NA,NA,NA,NA,NA,NA,2021
@@ -3407,6 +3410,8 @@
 "2025w35",3,"Rustenburg Wastewater Treatment Works","North West","Bojanala Platinum DM",6.15,6.15,0.788875115775417,2025-08-27,2025
 "2025w36",0,"Rustenburg Wastewater Treatment Works","North West","Bojanala Platinum DM",6.21,6.21,0.79309160017658,2025-09-03,2025
 "2025w36",0,"Boitekong","North West","Bojanala Platinum DM",0,NA,NA,2025-09-03,2025
+"2025w37",0,"Boitekong","North West","Bojanala Platinum DM",NA,NA,NA,2025-09-10,2025
+"2025w37",0,"Rustenburg Wastewater Treatment Works","North West","Bojanala Platinum DM",NA,NA,NA,2025-09-10,2025
 "2021w1",1208,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",59,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",28,NA,NA,NA,NA,NA,NA,NA,2021
@@ -4339,4 +4344,4 @@
 "2025w27",0,"Homevale Kimberley","Northern Cape","Frances Baard DM",0,NA,NA,2025-07-02,2025
 "2025w31",2,"Homevale Kimberley","Northern Cape","Frances Baard DM",0,NA,NA,2025-07-30,2025
 "2025w35",2,NA,NA,NA,NA,NA,NA,NA,2025
-"2025w37",1,NA,NA,NA,NA,NA,NA,NA,2025
+"2025w37",1,"Homevale Kimberley","Northern Cape","Frances Baard DM",NA,NA,NA,2025-09-10,2025
