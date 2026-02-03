@@ -2348,6 +2348,7 @@
 "2026w3",0,"ERWAT Vlakplaat Wastewater Treatment Works","Gauteng","Ekurhuleni MM",0,NA,NA,2026-01-20,2026
 "2026w4",0,"ERWAT Vlakplaat Wastewater Treatment Works","Gauteng","Ekurhuleni MM",NA,NA,NA,2026-01-27,2026
 "2026w4",0,"Hartebeesfontein Waterworks","Gauteng","Ekurhuleni MM",NA,NA,NA,2026-01-27,2026
+"2026w5",0,"ERWAT Vlakplaat Wastewater Treatment Works","Gauteng","Ekurhuleni MM",NA,NA,NA,2026-02-03,2026
 "2021w1",3854,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",145,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",123,NA,NA,NA,NA,NA,NA,NA,2021
@@ -3406,6 +3407,7 @@
 "2026w3",0,"Goudkoppies Wastewater Treatment Works","Gauteng","Johannesburg MM",0,NA,NA,2026-01-21,2026
 "2026w4",0,"Northern Wastewater Treatment Works (GP)","Gauteng","Johannesburg MM",NA,NA,NA,2026-01-27,2026
 "2026w4",0,"Goudkoppies Wastewater Treatment Works","Gauteng","Johannesburg MM",NA,NA,NA,2026-01-28,2026
+"2026w5",0,"Northern Wastewater Treatment Works (GP)","Gauteng","Johannesburg MM",NA,NA,NA,2026-02-03,2026
 "2021w1",372,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",29,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",35,NA,NA,NA,NA,NA,NA,NA,2021
@@ -3707,8 +3709,8 @@
 "2025w50",0,"Rustenburg Wastewater Treatment Works","North West","Bojanala Platinum DM",0,NA,NA,2025-12-10,2025
 "2026w2",0,"Rustenburg Wastewater Treatment Works","North West","Bojanala Platinum DM",6.18,6.18,0.790988475088816,2026-01-14,2026
 "2026w2",0,"Boitekong","North West","Bojanala Platinum DM",0,NA,NA,2026-01-14,2026
-"2026w3",0,"Rustenburg Wastewater Treatment Works","North West","Bojanala Platinum DM",NA,NA,NA,2026-01-21,2026
 "2026w3",0,"Boitekong","North West","Bojanala Platinum DM",NA,NA,NA,2026-01-21,2026
+"2026w3",0,"Rustenburg Wastewater Treatment Works","North West","Bojanala Platinum DM",NA,NA,NA,2026-01-21,2026
 "2026w4",0,"Rustenburg Wastewater Treatment Works","North West","Bojanala Platinum DM",NA,NA,NA,2026-01-28,2026
 "2026w4",0,"Boitekong","North West","Bojanala Platinum DM",NA,NA,NA,2026-01-28,2026
 "2021w1",1208,NA,NA,NA,NA,NA,NA,NA,2021
@@ -4569,6 +4571,7 @@
 "2026w2",0,"Jozini Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",12.39,12.39,1.09307130637606,2026-01-13,2026
 "2026w2",0,"Manguzi Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",0,NA,NA,2026-01-14,2026
 "2026w3",0,"Jozini Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",6.02,6.02,0.779596491257824,2026-01-20,2026
+"2026w4",0,"Jozini Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",NA,NA,NA,2026-01-27,2026
 "2026w4",0,"Manguzi Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",NA,NA,NA,2026-01-28,2026
 "2021w1",183,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",17,NA,NA,NA,NA,NA,NA,NA,2021
