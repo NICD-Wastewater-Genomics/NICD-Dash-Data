@@ -1068,7 +1068,9 @@
 "2025w38",1,NA,NA,NA,NA,NA,NA,NA,2025
 "2025w41",0,"Kwanobuhle Wastewater Treatment Works","Eastern Cape","Nelson Mandela Bay MM",0,NA,NA,2025-10-06,2025
 "2025w45",0,"Kwanobuhle Wastewater Treatment Works","Eastern Cape","Nelson Mandela Bay MM",5.81,5.81,0.764176132390331,2025-11-03,2025
+"2026w6",0,"Kwanobuhle Wastewater Treatment Works","Eastern Cape","Nelson Mandela Bay MM",5.5,5.5,0.740362689494244,2026-02-09,2026
 "2026w6",0,"Kwanobuhle Wastewater Treatment Works","Eastern Cape","Nelson Mandela Bay MM",NA,NA,NA,2026-02-09,2026
+"2026w14",0,"Kwanobuhle Wastewater Treatment Works","Eastern Cape","Nelson Mandela Bay MM",NA,NA,NA,2026-04-07,2026
 "2021w1",347,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",12,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",6,NA,NA,NA,NA,NA,NA,NA,2021
@@ -1733,6 +1735,7 @@
 "2023w19",0,"Central Wastewater Treatment Works (KZN)","KwaZulu-Natal","Ethekwini MM",NA,NA,NA,2023-05-10,2023
 "2023w20",0,"Central Wastewater Treatment Works (KZN)","KwaZulu-Natal","Ethekwini MM",16.46,16.46,1.21642983087625,2023-05-15,2023
 "2023w20",0,"Central Wastewater Treatment Works (KZN)","KwaZulu-Natal","Ethekwini MM",17.56,17.56,1.24452451157008,2023-05-15,2023
+"2023w21",0,"Central Wastewater Treatment Works (KZN)","KwaZulu-Natal","Ethekwini MM",NA,NA,NA,2023-05-23,2023
 "2023w23",0,"Central Wastewater Treatment Works (KZN)","KwaZulu-Natal","Ethekwini MM",0.58,2.34,0.369215857410143,2023-06-06,2023
 "2023w24",0,"Central Wastewater Treatment Works (KZN)","KwaZulu-Natal","Ethekwini MM",0.59,2.34,0.369215857410143,2023-06-14,2023
 "2023w24",0,"Northern Wastewater Treatment Works (KZN)","KwaZulu-Natal","Ethekwini MM",2.13,2.34,0.369215857410143,2023-06-14,2023
@@ -2449,7 +2452,7 @@
 "2021w2",145,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",123,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w4",31,NA,NA,NA,NA,NA,NA,NA,2021
-"2021w5",47,NA,NA,NA,NA,NA,NA,NA,2021
+"2021w5",47,"Daspoort Wastewater Treatment Works","Gauteng","Tshwane MM",NA,NA,NA,2021-02-02,2021
 "2021w6",40,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w7",32,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w8",14,"Rooiwal Wastewater Treatment Works","Gauteng","Tshwane MM",3.3,3.3,0.518513939877887,2021-02-22,2021
@@ -4802,6 +4805,7 @@
 "2026w12",0,"Manguzi Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",NA,NA,NA,2026-03-25,2026
 "2026w13",0,"Jozini Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",NA,NA,NA,2026-03-31,2026
 "2026w13",0,"Manguzi Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",NA,NA,NA,2026-04-01,2026
+"2026w14",0,"Manguzi Wastewater Treatment Plant","KwaZulu-Natal","Umkhanyakude DM",NA,NA,NA,2026-04-08,2026
 "2021w1",183,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",17,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",3,NA,NA,NA,NA,NA,NA,NA,2021
