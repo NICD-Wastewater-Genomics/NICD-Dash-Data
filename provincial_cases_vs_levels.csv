@@ -402,6 +402,8 @@
 "2026w28",0,"Borcherds Quarry Wastewater Treatment Works","Western Cape","Cape Town MM",0,NA,NA,2026-07-14,2026
 "2026w29",0,"Zandvleit Wastewater Treatment Works","Western Cape","Cape Town MM",NA,NA,NA,2026-07-21,2026
 "2026w29",0,"Borcherds Quarry Wastewater Treatment Works","Western Cape","Cape Town MM",NA,NA,NA,2026-07-21,2026
+"2026w30",0,"Zandvleit Wastewater Treatment Works","Western Cape","Cape Town MM",NA,NA,NA,2026-07-28,2026
+"2026w30",0,"Borcherds Quarry Wastewater Treatment Works","Western Cape","Cape Town MM",NA,NA,NA,2026-07-29,2026
 "2021w1",691,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",5,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",2,NA,NA,NA,NA,NA,NA,NA,2021
@@ -874,6 +876,8 @@
 "2026w27",0,"Mdantsane Wastewater Treatment Works","Eastern Cape","Buffalo City MM",0,NA,NA,2026-07-07,2026
 "2026w28",0,"Mdantsane Wastewater Treatment Works","Eastern Cape","Buffalo City MM",0,NA,NA,2026-07-14,2026
 "2026w29",0,"Mdantsane Wastewater Treatment Works","Eastern Cape","Buffalo City MM",NA,NA,NA,2026-07-21,2026
+"2026w30",0,"East Bank Wastewater Treatment Works","Eastern Cape","Buffalo City MM",NA,NA,NA,2026-07-28,2026
+"2026w30",0,"Mdantsane Wastewater Treatment Works","Eastern Cape","Buffalo City MM",NA,NA,NA,2026-07-28,2026
 "2021w1",4933,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",97,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",42,NA,NA,NA,NA,NA,NA,NA,2021
@@ -1625,6 +1629,8 @@
 "2026w28",0,"Bloemspruit Wastewater Treatment Works","Free State","Mangaung MM",0,NA,NA,2026-07-14,2026
 "2026w29",0,"Bloemspruit Wastewater Treatment Works","Free State","Mangaung MM",NA,NA,NA,2026-07-21,2026
 "2026w29",0,"Sterkwater Wastewater Treatment Works","Free State","Mangaung MM",NA,NA,NA,2026-07-21,2026
+"2026w30",0,"Bloemspruit Wastewater Treatment Works","Free State","Mangaung MM",NA,NA,NA,2026-07-28,2026
+"2026w30",0,"Sterkwater Wastewater Treatment Works","Free State","Mangaung MM",NA,NA,NA,2026-07-28,2026
 "2021w1",4933,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",97,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",42,NA,NA,NA,NA,NA,NA,NA,2021
@@ -2574,12 +2580,14 @@
 "2026w23",0,"ERWAT Vlakplaat Wastewater Treatment Works","Gauteng","Ekurhuleni MM",0,NA,NA,2026-06-09,2026
 "2026w24",0,"ERWAT Vlakplaat Wastewater Treatment Works","Gauteng","Ekurhuleni MM",0,NA,NA,2026-06-17,2026
 "2026w25",0,"Hartebeesfontein Waterworks","Gauteng","Ekurhuleni MM",0,NA,NA,2026-06-23,2026
+"2026w26",0,"ERWAT Vlakplaat Wastewater Treatment Works","Gauteng","Ekurhuleni MM",NA,NA,NA,2026-06-28,2026
 "2026w26",0,"ERWAT Vlakplaat Wastewater Treatment Works","Gauteng","Ekurhuleni MM",0,NA,NA,2026-07-01,2026
 "2026w27",0,"Hartebeesfontein Waterworks","Gauteng","Ekurhuleni MM",0,NA,NA,2026-07-07,2026
 "2026w27",0,"ERWAT Vlakplaat Wastewater Treatment Works","Gauteng","Ekurhuleni MM",0,NA,NA,2026-07-07,2026
 "2026w28",0,"ERWAT Vlakplaat Wastewater Treatment Works","Gauteng","Ekurhuleni MM",0,NA,NA,2026-07-14,2026
 "2026w28",0,"Hartebeesfontein Waterworks","Gauteng","Ekurhuleni MM",0,NA,NA,2026-07-14,2026
 "2026w29",0,"Hartebeesfontein Waterworks","Gauteng","Ekurhuleni MM",0,NA,NA,2026-07-21,2026
+"2026w30",0,"Hartebeesfontein Waterworks","Gauteng","Ekurhuleni MM",NA,NA,NA,2026-07-28,2026
 "2021w1",3854,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",145,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",123,NA,NA,NA,NA,NA,NA,NA,2021
@@ -3401,6 +3409,7 @@
 "2026w29",0,"Daspoort Wastewater Treatment Works","Gauteng","Tshwane MM",NA,NA,NA,2026-07-24,2026
 "2026w30",0,"Daspoort Wastewater Treatment Works","Gauteng","Tshwane MM",NA,NA,NA,2026-07-28,2026
 "2026w30",0,"Daspoort Wastewater Treatment Works","Gauteng","Tshwane MM",NA,NA,NA,2026-07-28,2026
+"2026w30",0,"Rooiwal Wastewater Treatment Works","Gauteng","Tshwane MM",NA,NA,NA,2026-07-29,2026
 "2021w1",4758,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",135,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",95,NA,NA,NA,NA,NA,NA,NA,2021
@@ -3810,6 +3819,7 @@
 "2026w24",0,"Northern Wastewater Treatment Works (GP)","Gauteng","Johannesburg MM",5.93,5.93,0.773054693364263,2026-06-19,2026
 "2026w25",0,"Northern Wastewater Treatment Works (GP)","Gauteng","Johannesburg MM",11.68,11.68,1.06744284277638,2026-06-23,2026
 "2026w25",0,"Goudkoppies Wastewater Treatment Works","Gauteng","Johannesburg MM",0,NA,NA,2026-06-24,2026
+"2026w26",0,"Northern Wastewater Treatment Works (GP)","Gauteng","Johannesburg MM",NA,NA,NA,2026-06-28,2026
 "2026w26",0,"Goudkoppies Wastewater Treatment Works","Gauteng","Johannesburg MM",0,NA,NA,2026-07-01,2026
 "2026w27",0,"Northern Wastewater Treatment Works (GP)","Gauteng","Johannesburg MM",0,NA,NA,2026-07-07,2026
 "2026w27",0,"Goudkoppies Wastewater Treatment Works","Gauteng","Johannesburg MM",0,NA,NA,2026-07-08,2026
@@ -3817,6 +3827,7 @@
 "2026w28",0,"Goudkoppies Wastewater Treatment Works","Gauteng","Johannesburg MM",0,NA,NA,2026-07-15,2026
 "2026w29",0,"Northern Wastewater Treatment Works (GP)","Gauteng","Johannesburg MM",6.06,6.06,0.782472624166286,2026-07-21,2026
 "2026w29",0,"Goudkoppies Wastewater Treatment Works","Gauteng","Johannesburg MM",NA,NA,NA,2026-07-22,2026
+"2026w30",0,"Goudkoppies Wastewater Treatment Works","Gauteng","Johannesburg MM",NA,NA,NA,2026-07-29,2026
 "2021w1",372,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",29,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",35,NA,NA,NA,NA,NA,NA,NA,2021
@@ -4500,6 +4511,7 @@
 "2026w28",0,"Komatipoort Sewage plant","Mpumalanga","Ehlanzeni DM",0,NA,NA,2026-07-13,2026
 "2026w29",0,"Komatipoort Sewage plant","Mpumalanga","Ehlanzeni DM",NA,NA,NA,2026-07-20,2026
 "2026w29",0,"Kingstonvale","Mpumalanga","Ehlanzeni DM",NA,NA,NA,2026-07-21,2026
+"2026w30",0,"Kingstonvale","Mpumalanga","Ehlanzeni DM",NA,NA,NA,2026-07-27,2026
 "2021w1",239,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",9,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",14,NA,NA,NA,NA,NA,NA,NA,2021
@@ -4857,6 +4869,8 @@
 "2026w27",0,"Nancefield","Limpopo","Vhembe DM",0,NA,NA,2026-07-07,2026
 "2026w29",0,"Musina WWTW (in town)","Limpopo","Vhembe DM",NA,NA,NA,2026-07-21,2026
 "2026w29",0,"Nancefield","Limpopo","Vhembe DM",NA,NA,NA,2026-07-21,2026
+"2026w30",0,"Musina WWTW (in town)","Limpopo","Vhembe DM",NA,NA,NA,2026-07-28,2026
+"2026w30",0,"Nancefield","Limpopo","Vhembe DM",NA,NA,NA,2026-07-28,2026
 "2021w1",880,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",11,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",5,NA,NA,NA,NA,NA,NA,NA,2021
