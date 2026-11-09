@@ -430,6 +430,8 @@
 "2026w42",0,"Zandvleit Wastewater Treatment Works","Western Cape","Cape Town MM",58.9,58.9,1.7701152947871,2026-10-20,2026
 "2026w43",0,"Borcherds Quarry Wastewater Treatment Works","Western Cape","Cape Town MM",69.56,69.56,1.84235957333067,2026-10-27,2026
 "2026w43",0,"Zandvleit Wastewater Treatment Works","Western Cape","Cape Town MM",102.7,102.7,2.01157044359728,2026-10-27,2026
+"2026w44",0,"Borcherds Quarry Wastewater Treatment Works","Western Cape","Cape Town MM",NA,NA,NA,2026-11-03,2026
+"2026w44",0,"Zandvleit Wastewater Treatment Works","Western Cape","Cape Town MM",NA,NA,NA,2026-11-03,2026
 "2021w1",691,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",5,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",2,NA,NA,NA,NA,NA,NA,NA,2021
@@ -930,6 +932,8 @@
 "2026w42",0,"Mdantsane Wastewater Treatment Works","Eastern Cape","Buffalo City MM",5.38,5.38,0.730782275666389,2026-10-20,2026
 "2026w43",0,"East Bank Wastewater Treatment Works","Eastern Cape","Buffalo City MM",26.95,26.95,1.43055876952276,2026-10-27,2026
 "2026w43",0,"Mdantsane Wastewater Treatment Works","Eastern Cape","Buffalo City MM",10.68,10.68,1.02857125269254,2026-10-27,2026
+"2026w44",0,"East Bank Wastewater Treatment Works","Eastern Cape","Buffalo City MM",NA,NA,NA,2026-11-03,2026
+"2026w44",0,"Mdantsane Wastewater Treatment Works","Eastern Cape","Buffalo City MM",NA,NA,NA,2026-11-03,2026
 "2021w1",4933,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",97,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",42,NA,NA,NA,NA,NA,NA,NA,2021
@@ -1712,6 +1716,8 @@
 "2026w42",0,"Sterkwater Wastewater Treatment Works","Free State","Mangaung MM",0,NA,NA,2026-10-20,2026
 "2026w43",0,"Bloemspruit Wastewater Treatment Works","Free State","Mangaung MM",5.34,5.34,0.727541257028556,2026-10-27,2026
 "2026w43",0,"Sterkwater Wastewater Treatment Works","Free State","Mangaung MM",0,NA,NA,2026-10-27,2026
+"2026w44",0,"Bloemspruit Wastewater Treatment Works","Free State","Mangaung MM",NA,NA,NA,2026-11-02,2026
+"2026w44",0,"Sterkwater Wastewater Treatment Works","Free State","Mangaung MM",NA,NA,NA,2026-11-03,2026
 "2021w1",4933,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",97,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",42,NA,NA,NA,NA,NA,NA,NA,2021
@@ -2720,6 +2726,7 @@
 "2026w43",0,"ERWAT Vlakplaat Wastewater Treatment Works","Gauteng","Ekurhuleni MM",5.52,5.52,0.741939077729199,2026-10-27,2026
 "2026w43",0,"Hartebeesfontein Waterworks","Gauteng","Ekurhuleni MM",21.4,21.4,1.33041377334919,2026-10-27,2026
 "2026w44",0,"ERWAT Vlakplaat Wastewater Treatment Works","Gauteng","Ekurhuleni MM",NA,NA,NA,2026-11-03,2026
+"2026w44",0,"Hartebeesfontein Waterworks","Gauteng","Ekurhuleni MM",NA,NA,NA,2026-11-03,2026
 "2021w1",3854,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",145,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",123,NA,NA,NA,NA,NA,NA,NA,2021
@@ -4418,6 +4425,8 @@
 "2026w42",0,"Rustenburg Wastewater Treatment Works","North West","Bojanala Platinum DM",0,NA,NA,2026-10-21,2026
 "2026w43",0,"Boitekong","North West","Bojanala Platinum DM",0,NA,NA,2026-10-28,2026
 "2026w43",0,"Rustenburg Wastewater Treatment Works","North West","Bojanala Platinum DM",5.34,5.34,0.727541257028556,2026-10-28,2026
+"2026w44",0,"Rustenburg Wastewater Treatment Works","North West","Bojanala Platinum DM",NA,NA,NA,2026-11-04,2026
+"2026w44",0,"Boitekong","North West","Bojanala Platinum DM",NA,NA,NA,2026-11-05,2026
 "2021w1",1208,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",59,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",28,NA,NA,NA,NA,NA,NA,NA,2021
@@ -4768,6 +4777,8 @@
 "2026w42",0,"Kingstonvale","Mpumalanga","Ehlanzeni DM",0,NA,NA,2026-10-19,2026
 "2026w43",0,"Komatipoort Sewage plant","Mpumalanga","Ehlanzeni DM",10.69,10.69,1.02897770520878,2026-10-26,2026
 "2026w43",0,"Kingstonvale","Mpumalanga","Ehlanzeni DM",0,NA,NA,2026-10-26,2026
+"2026w44",0,"Komatipoort Sewage plant","Mpumalanga","Ehlanzeni DM",NA,NA,NA,2026-11-02,2026
+"2026w44",0,"Kingstonvale","Mpumalanga","Ehlanzeni DM",NA,NA,NA,2026-11-02,2026
 "2021w1",239,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",9,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",14,NA,NA,NA,NA,NA,NA,NA,2021
@@ -5145,6 +5156,8 @@
 "2026w40",0,"Nancefield","Limpopo","Vhembe DM",0,NA,NA,2026-10-06,2026
 "2026w42",0,"Musina WWTW (in town)","Limpopo","Vhembe DM",0,NA,NA,2026-10-20,2026
 "2026w42",0,"Nancefield","Limpopo","Vhembe DM",0,NA,NA,2026-10-20,2026
+"2026w44",0,"Musina WWTW (in town)","Limpopo","Vhembe DM",NA,NA,NA,2026-11-03,2026
+"2026w44",0,"Nancefield","Limpopo","Vhembe DM",NA,NA,NA,2026-11-03,2026
 "2021w1",880,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",11,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",5,NA,NA,NA,NA,NA,NA,NA,2021
