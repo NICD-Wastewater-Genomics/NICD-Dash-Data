@@ -936,6 +936,8 @@
 "2026w43",0,"Mdantsane Wastewater Treatment Works","Eastern Cape","Buffalo City MM",10.68,10.68,1.02857125269254,2026-10-27,2026
 "2026w44",0,"East Bank Wastewater Treatment Works","Eastern Cape","Buffalo City MM",NA,NA,NA,2026-11-03,2026
 "2026w44",0,"Mdantsane Wastewater Treatment Works","Eastern Cape","Buffalo City MM",NA,NA,NA,2026-11-03,2026
+"2026w45",0,"East Bank Wastewater Treatment Works","Eastern Cape","Buffalo City MM",NA,NA,NA,2026-11-10,2026
+"2026w45",0,"Mdantsane Wastewater Treatment Works","Eastern Cape","Buffalo City MM",NA,NA,NA,2026-11-10,2026
 "2021w1",4933,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",97,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",42,NA,NA,NA,NA,NA,NA,NA,2021
@@ -1721,6 +1723,7 @@
 "2026w44",0,"Bloemspruit Wastewater Treatment Works","Free State","Mangaung MM",NA,NA,NA,2026-11-02,2026
 "2026w44",0,"Sterkwater Wastewater Treatment Works","Free State","Mangaung MM",NA,NA,NA,2026-11-03,2026
 "2026w45",0,"Bloemspruit Wastewater Treatment Works","Free State","Mangaung MM",NA,NA,NA,2026-11-10,2026
+"2026w45",0,"Sterkwater Wastewater Treatment Works","Free State","Mangaung MM",NA,NA,NA,2026-11-10,2026
 "2021w1",4933,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",97,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",42,NA,NA,NA,NA,NA,NA,NA,2021
@@ -2732,6 +2735,7 @@
 "2026w44",0,"ERWAT Vlakplaat Wastewater Treatment Works","Gauteng","Ekurhuleni MM",NA,NA,NA,2026-11-03,2026
 "2026w44",0,"Hartebeesfontein Waterworks","Gauteng","Ekurhuleni MM",NA,NA,NA,2026-11-03,2026
 "2026w45",0,"Hartebeesfontein Waterworks","Gauteng","Ekurhuleni MM",NA,NA,NA,2026-11-10,2026
+"2026w45",0,"ERWAT Vlakplaat Wastewater Treatment Works","Gauteng","Ekurhuleni MM",NA,NA,NA,2026-11-10,2026
 "2021w1",3854,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",145,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",123,NA,NA,NA,NA,NA,NA,NA,2021
@@ -4791,6 +4795,7 @@
 "2026w44",0,"Komatipoort Sewage plant","Mpumalanga","Ehlanzeni DM",NA,NA,NA,2026-11-02,2026
 "2026w44",0,"Kingstonvale","Mpumalanga","Ehlanzeni DM",NA,NA,NA,2026-11-02,2026
 "2026w45",0,"Komatipoort Sewage plant","Mpumalanga","Ehlanzeni DM",NA,NA,NA,2026-11-09,2026
+"2026w45",0,"Kingstonvale","Mpumalanga","Ehlanzeni DM",NA,NA,NA,2026-11-09,2026
 "2021w1",239,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w2",9,NA,NA,NA,NA,NA,NA,NA,2021
 "2021w3",14,NA,NA,NA,NA,NA,NA,NA,2021
